@@ -29,7 +29,7 @@ class TodoInput extends Component {
           value={this.state.value}
           onChange={this.changeInputValue}
         />
-        <button type="submit">Submit</button>
+        <button type="submit">Submit Item</button>
       </form>
     );
   }
